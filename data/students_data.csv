@@ -1,0 +1,11 @@
+Student_ID,Name,Class,Math,Science,English,Attendance
+1,Aarav,10,78,85,74,92
+2,Diya,10,88,90,91,95
+3,Rahul,10,45,52,48,76
+4,Priya,10,92,89,94,98
+5,Karan,10,34,40,38,65
+6,Neha,10,81,79,85,88
+7,Arjun,10,67,72,70,80
+8,Isha,10,NaN,84,78,90
+9,Rohan,10,56,60,55,72
+10,Sneha,10,90,92,89,96

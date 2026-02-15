@@ -2,6 +2,7 @@ import pandas as pd
 
 def load_data(filepath="../data/students_data.csv"
 ):
+
     student_df = pd.read_csv(filepath)
     return student_df
 

@@ -1,6 +1,6 @@
 (1)Project Title: 🎓 Student Performance Analyzer
 
-(2)Project Description: A Python-based, Student Performance Analyzer that reads student data from a CSV file and allows users to analyze student-wise academic performance, including subject marks, attendance, percentage, and grades.
+(2)Project Description: A Python-based, Student Performance Analyzer that reads student data from a CSV file and allows users to analyze student-wise academic performance, including subject marks, attendance, percentage, and grades
 
 (3)Project Overview:
 This project helps in analyzing student performance by:

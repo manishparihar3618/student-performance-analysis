@@ -10,6 +10,7 @@ Calculating subject-wise and overall grades
 Displaying attendance and percentage
 It simulates a real-world data analysis task often required in academic analytics.
 
+
 (4)Technologies Used:
 Python
 Pandas
